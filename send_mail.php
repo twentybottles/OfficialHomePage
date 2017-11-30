@@ -1,6 +1,6 @@
 <?php
-	$mailTo  = 'riki.nakajima@gmail.com';
-	$returnMail = 'riki.nakajima@gmail.com';
+	$mailTo  = 'riki.nakajima@twentybottles.com';
+	$returnMail = 'riki.nakajima@twentybottles.com';
 	$subject = 'ホームページより問い合わせがあります。';
 
 	$msg = $_POST['name'] . '様からのお問い合わせを受け付けました。'."\n";

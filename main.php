@@ -36,6 +36,16 @@
   </article>
   <article class="grid col3 colDark" style="margin-top:70px;">
   <h3>NEWS</h3>
+  <p>・2017.11.30<span style="margin-left:20px;">
+	<a href="#" target="_blank">
+		ホームページをリリースいたします。
+	</a>
+  </p>
+  <p>・2017.11.06<span style="margin-left:20px;">
+	<a href="https://www.facebook.com/riki.n.5/posts/1610696339016467" target="_blank">
+		プログラミングを勉強し始めて1ヶ月が経ちました。
+	</a>
+  </p>
   <p>・2017.11.06<span style="margin-left:20px;">
 	<a href="https://www.facebook.com/riki.n.5/posts/1590446624374772" target="_blank">
 		3ヶ月でエンジニアを目指すために。
@@ -44,11 +54,6 @@
   <p>・2017.10.28<span style="margin-left:20px;">
 	<a href="https://www.facebook.com/riki.n.5/posts/1582742915145143" target="_blank">
 		ホームページ無料作成キャンペーン
-	</a>
-  </p>
-  <p>・2017.10.22<span style="margin-left:20px;">
-	<a href="https://www.facebook.com/riki.n.5/posts/1576952592390842" target="_blank">
-		楽しくパソコンが勉強できるサークルをスタートします！
 	</a>
   </p>
   <p>・2017.10.21<span style="margin-left:20px;">

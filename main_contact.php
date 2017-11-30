@@ -29,11 +29,11 @@
         <tbody>
 			<tr>
             	<th>名前</th>
-                <td><input class="contact_input" type="text" name="name" size="59" maxlength="30" value="'.$name.'"></td>
+                <td><input class="contact_input" type="text" name="name" size="59" maxlength="20" value="'.$name.'"></td>
             </tr>
             <tr>
             	<th>フリガナ</th>
-                <td><input class="contact_input" type="text" name="hurigana" size="59" maxlength="30" value="'.$hurigana.'"></td>
+                <td><input class="contact_input" type="text" name="hurigana" size="59" maxlength="20" value="'.$hurigana.'"></td>
             </tr>
             <tr>
             	<th>住所</th>
@@ -48,8 +48,8 @@
                 <td><input class="contact_input" type="text" name="mailAddressConfirm" size="59" maxlength="30" value="'.$mailAddressConfirm.'"></td>
             </tr>
             <tr>
-            	<th>電話番号</th>
-                <td><input class="contact_input" type="text" name="telNo" size="59" maxlength="30" value="'.$telNo.'"></td>
+            	<th>電話番号(ハイフンなし)</th>
+                <td><input class="contact_input" type="text" name="telNo" size="59" maxlength="15" value="'.$telNo.'"></td>
             </tr>
             <tr>
             	<th>お問い合わせ内容</th>
